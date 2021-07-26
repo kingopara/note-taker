@@ -19,6 +19,8 @@ As a small business owner, I want to be able to write and save notes so that I c
 
 [Github Repository](https://github.com/kingopara/NoteTaker)
 
+[Link to walk-through video](https://drive.google.com/file/d/1_rh0ZC2yD1hjaONjkE_87j4GhBniZbjZ/view?usp=sharing)
+
 ## Preview
 ![Preview 1](public/assets/img/noteTk2.png)
 ![Preview 2](public/assets/img/noteTk1.phg.png)
