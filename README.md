@@ -76,6 +76,13 @@ I can keep track of tasks I need to complete and organize my thoughts.
 
 * navigate to the browser and open `http://localhost:3009` to run the app
 
+When the app is opened, hit `Get Started` to create your notes and you'll be taken to page to create your notes, 
+
+* Add a Title of the note at the `Note Title` label
+* Create your note at the `Note Text` label
+* Hit the `💾` icon that will appear at the top right to save your note and your note will be added to the list of test notes on the left
+* To delete a note, hit the `trash icon` associated with the note
+
 ## Features
 
 1. Express.json to build back-end server
